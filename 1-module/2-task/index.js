@@ -15,7 +15,7 @@ function isValid(name) {
 } else {
     return true;
 }
-}
+};
 
 function sayHello() {
   let userName = prompt('Введите ваше имя');
